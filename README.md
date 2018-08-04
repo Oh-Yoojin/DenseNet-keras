@@ -30,6 +30,9 @@ To improve model compactness, reduce the number of feature-maps at transition la
 ![table1](https://github.com/Oh-Yoojin/DenseNet-keras/blob/master/pictures/table1.PNG)
 
 ##### Adventage
+
+![table2](https://github.com/Oh-Yoojin/DenseNet-keras/blob/master/pictures/table2.PNG)
+
 ###### Accuracy.
 DenseNet achieves high accuracy than other traditional architectures.
 In this paper, the best results on C10 and C100 are even more encouraging: both are close to 30% lower than FractalNet with drop-path regularization.
